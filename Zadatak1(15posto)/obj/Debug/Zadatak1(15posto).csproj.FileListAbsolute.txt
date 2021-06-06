@@ -1,0 +1,7 @@
+C:\Users\Korisnik\source\repos\Zadatak1(15posto)\Zadatak1(15posto)\bin\Debug\Zadatak1(15posto).exe.config
+C:\Users\Korisnik\source\repos\Zadatak1(15posto)\Zadatak1(15posto)\bin\Debug\Zadatak1(15posto).exe
+C:\Users\Korisnik\source\repos\Zadatak1(15posto)\Zadatak1(15posto)\bin\Debug\Zadatak1(15posto).pdb
+C:\Users\Korisnik\source\repos\Zadatak1(15posto)\Zadatak1(15posto)\obj\Debug\Zadatak1(15posto).csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Zadatak1(15posto)\Zadatak1(15posto)\obj\Debug\Zadatak1(15posto).csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Zadatak1(15posto)\Zadatak1(15posto)\obj\Debug\Zadatak1(15posto).exe
+C:\Users\Korisnik\source\repos\Zadatak1(15posto)\Zadatak1(15posto)\obj\Debug\Zadatak1(15posto).pdb
